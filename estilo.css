@@ -1,0 +1,20 @@
+#titulo{
+    color: #036db4;
+    font-size: 60px;
+    font-weight: bolder;
+    border: 10px #036db4 solid;
+    margin-right: 450px;
+}
+.texto{
+    font-size: 18px;
+    margin-right: 450px;
+}
+#ods{
+    font-size: 25px;
+    margin-right: 450px;
+}
+.negrito{
+    font-weight: bolder;
+    font-size: 30px;
+    color: #036db4;
+}
